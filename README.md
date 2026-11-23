@@ -1,15 +1,15 @@
 # ts3bot-cs2-news
 
-Plugin pro TeamSpeak bota. Nové články o CS2 ze Steamu - pošle je do kanálu.
+A plugin for the TeamSpeak bot: new CS2 articles from Steam, posted to the channel.
 
-## Instalace
+## Install
 
-Soukromá zpráva botovi:
+Send the bot a private message:
 
 ```
 !service install github.com/rowdy4e/ts3bot-cs2-news
 ```
 
-Bot ukáže, co plugin dělá a co smí, a nainstaluje ho až po tvém „ano“.
+The bot shows what the plugin does and what it may do, and installs it only after you reply "yes".
 
-Jak plugin napsat: [ts3bot-plugin-template](https://github.com/rowdy4e/ts3bot-plugin-template).
+How to write a plugin: [ts3bot-plugin-template](https://github.com/rowdy4e/ts3bot-plugin-template).

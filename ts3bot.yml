@@ -1,6 +1,6 @@
 name: cs2-news
-description: Nové články o CS2 ze Steamu - pošle je do kanálu.
-version: 2.0.0
+description: New CS2 articles from Steam - posted to the channel.
+version: 2.0.1
 when:
   cron: "*/30 * * * *"
 may:
